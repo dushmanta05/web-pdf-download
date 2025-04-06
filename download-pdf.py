@@ -68,7 +68,7 @@ def download_pdf(url, folder):
         time.sleep(random.uniform(2, 5))
 
 # URL of the website containing PDF links
-url = "https://examplee.com/"
+url = "https://example.com/"
 # Folder to save the PDFs
 download_folder = "downloaded_pdfs"
 # Run the function
